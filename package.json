@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://15.207.110.253:9093/tarundevops/repository/npm-hosted/"
+    "registry": "http://43.204.100.77:8081/repository/nodejs-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
